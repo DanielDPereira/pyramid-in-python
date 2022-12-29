@@ -1,4 +1,4 @@
-x = int(input("You would like a pyramid with how many rows? "))
+x = int(input("You would like a half pyramid with how many rows? "))
 y = 1
 
 for i in range(x):
