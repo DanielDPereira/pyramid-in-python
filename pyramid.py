@@ -1,4 +1,4 @@
-x = int(input())
+x = int(input("I would like a pyramid with how many columns"))
 y = 1
 
 for i in range(x):
